@@ -1,12 +1,8 @@
-# React + Vite
+## 리액트로 버튼 클릭 시 숫자 증가하게 함
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 리액트는 컴포넌트들로 이루어져있다고 한다. 각각의 컴포넌트들이 변화 할 때 마다 이전 DOM 상태와 비교하여 그 부분만 다시 그려준다고 한다는데..
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 궁금한 점
+- 리액트는 어떻게 이전 컴포넌트와의 비교점을 찾아 수정 할 수 있을까?
+- useState가 정확하게 무엇인가?
+- 컴포넌트가 porps 라는 형식으로? 값을 상속 받을 수 있다고 하는데(잘 모름) 이것도 어떻게 전달되는 걸까?
