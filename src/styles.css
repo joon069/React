@@ -1,0 +1,22 @@
+*{
+  margin : 0;
+}
+.wrapp{
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid #ccc;
+}    
+.greeting {
+  margin-right: 8px; 
+}
+.btn{
+  height: 30px;
+  border-radius: 5px;
+  background: lightseagreen;
+  border: 0;
+  font-size: 1rem;
+}
+.btn:hover{
+  background : lightblue;
+}
