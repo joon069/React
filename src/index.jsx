@@ -1,4 +1,3 @@
- 
 
 function Hello({ name, number }) {
   return (
