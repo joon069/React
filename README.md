@@ -17,3 +17,11 @@
 - 간단하게 클릭에 따라 h1태그의 내용이 달라지는 코드 작성
 
 ## Map 매서드를 이용하여 컴포넌트 랜더링
+
+# 1015
+## 비동기 처리 (Callback, Promise, async/await)
+
+### 공부 할 것  
+- Callback, Promise, async/await 복습 및 다시 공부 하기
+- 비동기 확실히 이해하기
+- 과제
